@@ -1,0 +1,405 @@
+2026-03-28 11:41:42 [info]: [Server] running on port 5000
+2026-03-28 12:08:30 [info]: [Server] running on port 5000
+2026-03-28 12:09:34 [info]: [Socket.io] Client connected: BrLTeTP3zrWSXE6JAAAC
+2026-03-28 12:09:43 [info]: [Socket.io] Client connected: Fzz4R9t5eooOOKMUAAAF
+2026-03-28 12:09:45 [info]: [Socket.io] Client connected: 9n4nWFZjv0DUTIh4AAAI
+2026-03-28 12:09:49 [info]: [Socket.io] Client disconnected: Fzz4R9t5eooOOKMUAAAF
+2026-03-28 12:10:07 [info]: [Socket.io] Client disconnected: 9n4nWFZjv0DUTIh4AAAI
+2026-03-28 12:10:08 [info]: [Socket.io] Client connected: PVMgk-t3zJAOQ58PAAAL
+2026-03-28 12:10:48 [info]: [Twilio Fallback Log] Sending SMS to +919999999999 : [PawRescue] Your verification code is: 658846
+2026-03-28 12:15:00 [info]: [Socket.io] Client disconnected: PVMgk-t3zJAOQ58PAAAL
+2026-03-28 12:15:00 [info]: [Socket.io] Client connected: GsNRmWnvd8sEZyHFAAAO
+2026-03-28 12:15:02 [info]: [Socket.io] Client disconnected: GsNRmWnvd8sEZyHFAAAO
+2026-03-28 12:15:02 [info]: [Socket.io] Client connected: NceE4SiHrrgz0it7AAAR
+2026-03-28 12:15:09 [info]: [Socket.io] Client disconnected: NceE4SiHrrgz0it7AAAR
+2026-03-28 12:15:09 [info]: [Socket.io] Client connected: nZQ8DpaBKOCdanmAAAAU
+2026-03-28 12:15:12 [info]: [Socket.io] Client disconnected: nZQ8DpaBKOCdanmAAAAU
+2026-03-28 12:15:20 [info]: [Socket.io] Client connected: 8rbvOLceu7j9DRB1AAAX
+2026-03-28 12:15:23 [info]: [Socket.io] Client disconnected: 8rbvOLceu7j9DRB1AAAX
+2026-03-28 12:15:29 [info]: [Socket.io] Client connected: 8glDzFZxrOlY25-tAAAa
+2026-03-28 12:15:33 [info]: [Socket.io] Client disconnected: 8glDzFZxrOlY25-tAAAa
+2026-03-28 12:15:43 [info]: [Socket.io] Client connected: RtXCL3FwBxyi9DaSAAAd
+2026-03-28 12:17:25 [info]: [Server] running on port 5000
+2026-03-28 12:17:25 [info]: [Socket.io] Client connected: 5N1KfrD6kzvxUyHSAAAB
+2026-03-28 12:17:26 [info]: [Socket.io] Client connected: Fr2i8nHXXSiSB_1zAAAD
+2026-03-28 12:17:31 [info]: [Socket.io] Client disconnected: 5N1KfrD6kzvxUyHSAAAB
+2026-03-28 12:17:32 [info]: [Socket.io] Client connected: 5CK8q-LjPi3K3jZZAAAG
+2026-03-28 12:17:50 [info]: [Server] running on port 5000
+2026-03-28 12:17:51 [info]: [Socket.io] Client connected: wHNqITawXCwE_4UtAAAB
+2026-03-28 12:17:51 [info]: [Socket.io] Client connected: xiGYOp2amuyLsZNRAAAD
+2026-03-28 12:19:24 [info]: [Socket.io] Client disconnected: wHNqITawXCwE_4UtAAAB
+2026-03-28 12:19:26 [info]: [Socket.io] Client disconnected: xiGYOp2amuyLsZNRAAAD
+2026-03-28 12:19:26 [info]: [Socket.io] Client connected: 84NLVZT9ui7WXYCnAAAG
+2026-03-28 12:19:27 [info]: [Socket.io] Client connected: _fBQkp918bjwpZ-VAAAJ
+2026-03-28 12:19:32 [info]: [Socket.io] Client connected: gW9J1QxRPMjetQ8CAAAM
+2026-03-28 12:20:21 [info]: [Socket.io] Client disconnected: gW9J1QxRPMjetQ8CAAAM
+2026-03-28 12:20:21 [info]: [Socket.io] Client disconnected: _fBQkp918bjwpZ-VAAAJ
+2026-03-28 12:20:21 [info]: [Socket.io] Client connected: _1kOZQV2hVQFwbHcAAAP
+2026-03-28 12:20:22 [info]: [Socket.io] Client disconnected: 84NLVZT9ui7WXYCnAAAG
+2026-03-28 12:20:22 [info]: [Socket.io] Client connected: ItKt_bkbiNDRqgy6AAAS
+2026-03-28 12:20:22 [info]: [Socket.io] Client connected: LlstfrN7SR2bsCviAAAV
+2026-03-28 12:22:55 [info]: [Socket.io] Client disconnected: ItKt_bkbiNDRqgy6AAAS
+2026-03-28 12:22:56 [info]: [Socket.io] Client connected: EecpUwuYETWQ9LjOAAAY
+2026-03-28 12:24:47 [info]: [Server] running on port 5000
+2026-03-28 12:24:48 [info]: [Socket.io] Client connected: ptpb9rQhll5Pk_YVAAAB
+2026-03-28 12:24:48 [info]: [Socket.io] Client connected: Hw_5gpaWG9aWdN9tAAAE
+2026-03-28 12:24:48 [info]: [Socket.io] Client connected: TK6_x92sW3p109hCAAAF
+2026-03-28 12:24:57 [info]: [Socket.io] Client disconnected: TK6_x92sW3p109hCAAAF
+2026-03-28 12:25:04 [info]: [Socket.io] Client disconnected: Hw_5gpaWG9aWdN9tAAAE
+2026-03-28 12:25:26 [info]: [Socket.io] Client connected: ne1qWwCwKAx9hagUAAAI
+2026-03-28 12:25:39 [info]: [Socket.io] Client disconnected: ptpb9rQhll5Pk_YVAAAB
+2026-03-28 12:25:41 [info]: [Socket.io] Client connected: TBZ4PlViZL6GiAGTAAAL
+2026-03-28 12:25:47 [info]: [Socket.io] Client disconnected: ne1qWwCwKAx9hagUAAAI
+2026-03-28 12:25:47 [info]: [Socket.io] Client connected: i_gDRHODUUK7LnUsAAAO
+2026-03-28 12:31:27 [info]: [Server] running on port 5000
+2026-03-28 12:31:27 [info]: [Socket.io] Client connected: _xzipgUsup6YzeT5AAAB
+2026-03-28 12:31:27 [info]: [Socket.io] Client connected: fl-exQq-aRsW3PWVAAAD
+2026-03-28 12:31:41 [info]: [Server] running on port 5000
+2026-03-28 12:31:41 [info]: [Socket.io] Client connected: U-7cO73dXcomerM4AAAB
+2026-03-28 12:31:41 [info]: [Socket.io] Client connected: 5HpGpjFkmMuQ6SjbAAAD
+2026-03-28 12:33:06 [info]: [Server] running on port 5000
+2026-03-28 12:33:06 [info]: [Socket.io] Client connected: GVBUyW9K7MICF1_hAAAB
+2026-03-28 12:33:07 [info]: [Socket.io] Client connected: zxVUHNDvsgHnkvXOAAAD
+2026-03-28 12:35:46 [info]: [Socket.io] Client disconnected: zxVUHNDvsgHnkvXOAAAD
+2026-03-28 12:36:45 [info]: [Socket.io] Client disconnected: GVBUyW9K7MICF1_hAAAB
+2026-03-28 12:47:58 [info]: [Socket.io] Client connected: XYfeLET4N3h4ZnVIAAAI
+2026-03-28 12:54:25 [info]: [Socket.io] Client connected: OTCeuqT69U8fbYviAAAL
+2026-03-28 12:56:05 [info]: [Socket.io] Client disconnected: OTCeuqT69U8fbYviAAAL
+2026-03-28 12:56:06 [info]: [Socket.io] Client connected: 7iwu5HFrsT4bnAZVAAAO
+2026-03-28 12:56:44 [info]: [Server] running on port 5000
+2026-03-28 12:56:44 [info]: [Socket.io] Client connected: wyBgq3TvoGnMRHaOAAAB
+2026-03-28 12:56:49 [info]: [Socket.io] Client connected: CxreJjMAjw2vNBe1AAAD
+2026-03-28 12:56:58 [info]: [Socket.io] Client disconnected: wyBgq3TvoGnMRHaOAAAB
+2026-03-28 12:57:00 [info]: [Socket.io] Client connected: AEN-AYnyy3XNmJDwAAAG
+2026-03-28 12:57:35 [info]: [Socket.io] Client disconnected: CxreJjMAjw2vNBe1AAAD
+2026-03-28 12:57:35 [info]: [Socket.io] Client connected: IwTCiYgjQTJgiWnTAAAJ
+2026-03-28 13:28:50 [info]: [Socket.io] Client disconnected: AEN-AYnyy3XNmJDwAAAG
+2026-03-28 13:28:51 [info]: [Socket.io] Client connected: ivaLxaBo6Y07aMoWAAAM
+2026-03-28 13:29:54 [info]: [Socket.io] Client disconnected: ivaLxaBo6Y07aMoWAAAM
+2026-03-28 13:29:56 [info]: [Socket.io] Client connected: 3nCqNF9GUTJrRu5EAAAP
+2026-03-28 13:30:51 [info]: [Socket.io] Client disconnected: IwTCiYgjQTJgiWnTAAAJ
+2026-03-28 13:30:53 [info]: [Socket.io] Client connected: Tt3zDKv9T4-qlPS2AAAS
+2026-03-28 13:30:57 [info]: [Socket.io] Client disconnected: Tt3zDKv9T4-qlPS2AAAS
+2026-03-28 13:30:58 [info]: [Socket.io] Client connected: l5mZHHdOx6D9S2V7AAAV
+2026-03-28 13:45:20 [info]: [Socket.io] Client disconnected: 3nCqNF9GUTJrRu5EAAAP
+2026-03-28 13:45:58 [info]: [Socket.io] Client connected: jPgHaBED8GktQkaRAAAX
+2026-03-28 13:46:39 [info]: [Socket.io] Client disconnected: jPgHaBED8GktQkaRAAAX
+2026-03-28 13:46:54 [info]: [Socket.io] Client connected: H52mTwsgEwiEMjBaAAAZ
+2026-03-28 13:51:21 [info]: [Socket.io] Client disconnected: H52mTwsgEwiEMjBaAAAZ
+2026-03-28 13:51:26 [info]: [Socket.io] Client disconnected: l5mZHHdOx6D9S2V7AAAV
+2026-03-28 14:06:28 [info]: [Server] running on port 5000
+2026-03-28 14:06:50 [info]: [Socket.io] Client connected: VFiZlKicTjMwWLqFAAAC
+2026-03-28 14:09:57 [info]: [Socket.io] Client disconnected: VFiZlKicTjMwWLqFAAAC
+2026-03-28 14:10:02 [info]: [Socket.io] Client connected: ez2DN5rSA60LvAbBAAAF
+2026-03-28 14:11:11 [info]: [Socket.io] Client disconnected: ez2DN5rSA60LvAbBAAAF
+2026-03-28 14:11:11 [info]: [Socket.io] Client connected: PjqEyVphLi8BVXBTAAAI
+2026-03-28 14:13:18 [info]: [Socket.io] Client disconnected: PjqEyVphLi8BVXBTAAAI
+2026-03-28 14:13:22 [info]: [Socket.io] Client connected: AAqv_rrg-MOwJ7YlAAAL
+2026-03-28 14:13:51 [info]: [Socket.io] Client disconnected: AAqv_rrg-MOwJ7YlAAAL
+2026-03-28 14:13:51 [info]: [Socket.io] Client connected: 3eI8DhHhDOhYG7jGAAAO
+2026-03-28 14:14:40 [info]: [Twilio Fallback Log] Sending SMS to +918178583752 : [PawRescue] Your verification code is: 689471
+2026-03-28 14:15:52 [info]: [Socket.io] Client disconnected: 3eI8DhHhDOhYG7jGAAAO
+2026-03-28 14:15:52 [info]: [Socket.io] Client connected: I6LD_ikA_0MoeUDpAAAR
+2026-03-28 14:18:03 [info]: [Socket.io] Client disconnected: I6LD_ikA_0MoeUDpAAAR
+2026-03-28 20:19:47 [info]: [Server] running on port 5000
+2026-03-28 20:20:48 [info]: [Socket.io] Client connected: -8CrwuwTiXQHkvqMAAAC
+2026-03-28 20:20:50 [info]: [Socket.io] Client disconnected: -8CrwuwTiXQHkvqMAAAC
+2026-03-28 20:20:51 [info]: [Socket.io] Client connected: i9d48ikeCSjG92LfAAAF
+2026-03-28 20:20:51 [info]: [Socket.io] Client disconnected: i9d48ikeCSjG92LfAAAF
+2026-03-28 20:20:57 [info]: [Socket.io] Client connected: VrbFzY1y8njxhDh-AAAI
+2026-03-28 20:20:57 [info]: [Socket.io] Client disconnected: VrbFzY1y8njxhDh-AAAI
+2026-03-28 20:21:00 [info]: [Socket.io] Client connected: K_935Z3NIe8GdML3AAAL
+2026-03-28 20:21:00 [info]: [Socket.io] Client disconnected: K_935Z3NIe8GdML3AAAL
+2026-03-28 20:21:01 [info]: [Socket.io] Client connected: 1YBjZZEGyYJen3fRAAAO
+2026-03-28 20:21:02 [info]: [Socket.io] Client disconnected: 1YBjZZEGyYJen3fRAAAO
+2026-03-28 20:21:03 [info]: [Socket.io] Client connected: kxFJetZchC0dY5_8AAAR
+2026-03-28 20:21:03 [info]: [Socket.io] Client disconnected: kxFJetZchC0dY5_8AAAR
+2026-03-28 20:21:04 [info]: [Socket.io] Client connected: WzLeXj5QDMs8GjVgAAAU
+2026-03-28 20:21:05 [info]: [Socket.io] Client disconnected: WzLeXj5QDMs8GjVgAAAU
+2026-03-28 20:21:05 [info]: [Socket.io] Client connected: V6dGaVo8rRHkb-PLAAAX
+2026-03-28 20:21:06 [info]: [Socket.io] Client disconnected: V6dGaVo8rRHkb-PLAAAX
+2026-03-28 20:21:07 [info]: [Socket.io] Client connected: yqeoPnt2affa9DK4AAAa
+2026-03-28 20:21:07 [info]: [Socket.io] Client disconnected: yqeoPnt2affa9DK4AAAa
+2026-03-28 20:21:27 [info]: [Socket.io] Client connected: NK_PLGQYmdaVVTLSAAAd
+2026-03-28 20:21:27 [info]: [Socket.io] Client disconnected: NK_PLGQYmdaVVTLSAAAd
+2026-03-28 20:21:31 [info]: [Socket.io] Client connected: 3YoRyEmblznc2r74AAAg
+2026-03-28 20:21:31 [info]: [Socket.io] Client disconnected: 3YoRyEmblznc2r74AAAg
+2026-03-28 20:21:54 [info]: [Socket.io] Client connected: J-JKOFNwC6NVi8sUAAAj
+2026-03-28 20:21:54 [info]: [Socket.io] Client disconnected: J-JKOFNwC6NVi8sUAAAj
+2026-03-28 20:28:04 [info]: [Socket.io] Client connected: KgDrn77VHvR436tsAAAo
+2026-03-28 20:28:08 [info]: [Socket.io] Client disconnected: KgDrn77VHvR436tsAAAo
+2026-03-28 20:28:08 [info]: [Socket.io] Client connected: c9OrJgiOb70mfgSbAAAr
+2026-03-28 20:31:20 [info]: [Socket.io] Client disconnected: c9OrJgiOb70mfgSbAAAr
+2026-03-28 20:31:22 [info]: [Socket.io] Client connected: 4VRqep-2MDiGgST9AAAw
+2026-03-28 20:31:55 [info]: [Socket.io] Client disconnected: 4VRqep-2MDiGgST9AAAw
+2026-03-28 20:31:55 [info]: [Socket.io] Client connected: XNECYoa1zUWypKlHAAAz
+2026-03-28 20:34:40 [info]: [Socket.io] Client disconnected: XNECYoa1zUWypKlHAAAz
+2026-03-28 20:34:40 [info]: [Socket.io] Client connected: m6x7ol23MPBgtR1sAAA2
+2026-03-28 20:34:59 [info]: [Socket.io] Client disconnected: m6x7ol23MPBgtR1sAAA2
+2026-03-28 20:34:59 [info]: [Socket.io] Client connected: JTrRg1SmXocAprRFAAA5
+2026-03-28 20:35:24 [info]: [Socket.io] Client disconnected: JTrRg1SmXocAprRFAAA5
+2026-03-28 20:35:24 [info]: [Socket.io] Client connected: 6PjK6A0nDPI49l-hAAA8
+2026-03-28 21:18:40 [info]: [Server] running on port 5000
+2026-03-28 21:18:45 [info]: [Socket.io] Client connected: TVErC_xP6R4P3MI4AAAB
+2026-03-28 21:22:42 [info]: [Server] running on port 5000
+2026-03-28 21:22:46 [info]: [Socket.io] Client connected: T7Rvu298NvP8JMC5AAAB
+2026-03-28 21:23:29 [info]: [Socket.io] Client connected: 9PJOiAmhvmHh9bUbAAAE
+2026-03-28 21:24:28 [info]: [Socket.io] Client disconnected: 9PJOiAmhvmHh9bUbAAAE
+2026-03-28 21:24:36 [info]: [Socket.io] Client connected: 5yufNsoiccvg2dJ6AAAG
+2026-03-28 21:24:43 [info]: [Socket.io] Client disconnected: 5yufNsoiccvg2dJ6AAAG
+2026-03-28 21:24:45 [info]: [Socket.io] Client disconnected: T7Rvu298NvP8JMC5AAAB
+2026-03-28 21:24:46 [info]: [Socket.io] Client connected: mxXM_A3bUesEWevuAAAJ
+2026-03-28 21:25:45 [info]: [AdoptionListing] Seeded starter catalog
+2026-03-28 21:26:32 [info]: [Server] running on port 5000
+2026-03-28 21:26:34 [info]: [Socket.io] Client connected: n77G_FyOlEojsiSxAAAC
+2026-03-28 21:26:41 [info]: [Socket.io] Client disconnected: n77G_FyOlEojsiSxAAAC
+2026-03-28 21:26:41 [info]: [Socket.io] Client connected: 8PxIEu5mIwpjuBxHAAAF
+2026-03-28 21:27:11 [info]: [Socket.io] Client disconnected: 8PxIEu5mIwpjuBxHAAAF
+2026-03-28 21:27:11 [info]: [Socket.io] Client connected: fQQd76m_lmBBkmpSAAAI
+2026-03-28 21:27:37 [info]: [Socket.io] Client disconnected: fQQd76m_lmBBkmpSAAAI
+2026-03-28 21:27:37 [info]: [Socket.io] Client connected: yC_PcD1SkfcFz0nTAAAL
+2026-03-28 21:33:40 [info]: [Server] running on port 5000
+2026-03-28 21:33:43 [info]: [Socket.io] Client connected: tkI0TkmUUaLjnqFfAAAB
+2026-03-28 21:33:46 [info]: [Socket.io] Client disconnected: tkI0TkmUUaLjnqFfAAAB
+2026-03-28 21:34:46 [info]: [Server] running on port 5000
+2026-03-28 21:34:54 [info]: [Server] running on port 5000
+2026-03-28 21:37:23 [info]: [Server] running on port 5000
+2026-03-28 21:38:16 [info]: [Socket.io] Client connected: YLE1PP8ghAPq0me5AAAB
+2026-03-28 21:38:29 [info]: [Socket.io] Client disconnected: YLE1PP8ghAPq0me5AAAB
+2026-03-28 21:38:33 [info]: [Socket.io] Client connected: x_sO87PH_rd7GSmGAAAF
+2026-03-28 21:40:04 [info]: [Socket.io] Client disconnected: x_sO87PH_rd7GSmGAAAF
+2026-03-28 21:42:08 [info]: [Socket.io] Client connected: ej_QanyoEwycM25AAAAH
+2026-03-28 21:42:15 [info]: [Socket.io] Client disconnected: ej_QanyoEwycM25AAAAH
+2026-03-28 21:42:18 [info]: [Socket.io] Client connected: X-_1b_kEr5r7x35oAAAJ
+2026-03-28 21:43:18 [info]: [Socket.io] Client disconnected: X-_1b_kEr5r7x35oAAAJ
+2026-03-28 21:51:32 [info]: [Server] running on port 5000
+2026-03-28 21:52:03 [info]: [Socket.io] Client connected: 0rYtXC-4d_IIwuBBAAAC
+2026-03-28 21:52:15 [info]: [Socket.io] Client disconnected: 0rYtXC-4d_IIwuBBAAAC
+2026-03-28 21:52:16 [info]: [Socket.io] Client connected: lZHQC9-t6fc8FshuAAAF
+2026-03-28 21:52:17 [info]: [Socket.io] Client disconnected: lZHQC9-t6fc8FshuAAAF
+2026-03-28 21:52:17 [info]: [Socket.io] Client connected: YAuSdshq5dVUhC-1AAAH
+2026-03-28 21:52:17 [info]: [Socket.io] Client disconnected: YAuSdshq5dVUhC-1AAAH
+2026-03-28 21:52:18 [info]: [Socket.io] Client connected: 0y3u5HSGknnSLetUAAAK
+2026-03-28 21:52:18 [info]: [Socket.io] Client disconnected: 0y3u5HSGknnSLetUAAAK
+2026-03-28 21:52:18 [info]: [Socket.io] Client connected: PKnHd3O2au2TzseWAAAN
+2026-03-28 21:52:18 [info]: [Socket.io] Client disconnected: PKnHd3O2au2TzseWAAAN
+2026-03-28 21:52:18 [info]: [Socket.io] Client connected: 7WrwRwRM-Q92W935AAAP
+2026-03-28 21:52:19 [info]: [Socket.io] Client disconnected: 7WrwRwRM-Q92W935AAAP
+2026-03-28 21:52:19 [info]: [Socket.io] Client connected: ynau5B8sLcWka2LuAAAS
+2026-03-28 21:52:19 [info]: [Socket.io] Client disconnected: ynau5B8sLcWka2LuAAAS
+2026-03-28 21:52:20 [info]: [Socket.io] Client connected: s9pYxfOuSIBHzaPBAAAX
+2026-03-28 21:52:20 [info]: [Socket.io] Client disconnected: s9pYxfOuSIBHzaPBAAAX
+2026-03-28 21:52:20 [info]: [Socket.io] Client connected: Q2L2tUH8xms3j5E0AAAa
+2026-03-28 21:52:20 [info]: [Socket.io] Client disconnected: Q2L2tUH8xms3j5E0AAAa
+2026-03-28 21:52:20 [info]: [Socket.io] Client connected: 1iwIt4Nuw1gbauJLAAAc
+2026-03-28 21:52:20 [info]: [Socket.io] Client disconnected: 1iwIt4Nuw1gbauJLAAAc
+2026-03-28 21:52:21 [info]: [Socket.io] Client connected: ecUYKgC4a9e0Ye4tAAAf
+2026-03-28 21:52:21 [info]: [Socket.io] Client disconnected: ecUYKgC4a9e0Ye4tAAAf
+2026-03-28 21:52:21 [info]: [Socket.io] Client connected: MKWQUzCcfyBmNQynAAAi
+2026-03-28 21:52:22 [info]: [Socket.io] Client disconnected: MKWQUzCcfyBmNQynAAAi
+2026-03-28 21:52:23 [info]: [Socket.io] Client connected: gYfQBJ4EcbKBuqnZAAAl
+2026-03-28 21:52:23 [info]: [Socket.io] Client disconnected: gYfQBJ4EcbKBuqnZAAAl
+2026-03-28 21:52:23 [info]: [Socket.io] Client connected: LcyFv1kJXJtfcYExAAAn
+2026-03-28 21:53:55 [info]: [Socket.io] Client disconnected: LcyFv1kJXJtfcYExAAAn
+2026-03-28 21:53:57 [info]: [Socket.io] Client connected: 63KMlCWzmhhAcRZGAAAq
+2026-03-28 21:54:31 [info]: [Socket.io] Client disconnected: 63KMlCWzmhhAcRZGAAAq
+2026-03-28 21:54:33 [info]: [Socket.io] Client connected: eNJJ8vCT7X552Ip0AAAt
+2026-03-28 21:56:42 [info]: [Server] running on port 5000
+2026-03-28 21:56:42 [info]: [Socket.io] Client connected: yXJjxqjDlCLL7XXuAAAB
+2026-03-28 21:56:53 [info]: [Socket.io] Client disconnected: yXJjxqjDlCLL7XXuAAAB
+2026-03-28 21:56:58 [info]: [Socket.io] Client connected: 4RAvZ0ZhZEQctbqCAAAE
+2026-03-28 21:57:41 [info]: [Socket.io] Client disconnected: 4RAvZ0ZhZEQctbqCAAAE
+2026-03-28 21:57:42 [info]: [Socket.io] Client connected: rKTSN4kesrb9YBv0AAAG
+2026-03-28 21:57:44 [info]: [Socket.io] Client disconnected: rKTSN4kesrb9YBv0AAAG
+2026-03-28 21:57:45 [info]: [Socket.io] Client connected: 6eipTxw9QXT19wb2AAAJ
+2026-03-28 22:00:34 [info]: [Socket.io] Client disconnected: 6eipTxw9QXT19wb2AAAJ
+2026-03-28 22:00:35 [info]: [Socket.io] Client connected: OXjqWITGNtq0CtxdAAAM
+2026-03-28 22:00:38 [info]: [Socket.io] Client disconnected: OXjqWITGNtq0CtxdAAAM
+2026-03-28 22:00:39 [info]: [Socket.io] Client connected: arcjuz8NP6OaQPo4AAAO
+2026-03-28 22:04:16 [info]: [Socket.io] Client disconnected: arcjuz8NP6OaQPo4AAAO
+2026-03-28 22:04:17 [info]: [Socket.io] Client connected: gRAP5KbOIaAqkNEhAAAR
+2026-03-28 22:06:11 [info]: [Socket.io] Client disconnected: gRAP5KbOIaAqkNEhAAAR
+2026-03-28 22:06:11 [info]: [Socket.io] Client connected: uH6SPv2P321tlpt2AAAU
+2026-03-28 22:08:03 [info]: [Socket.io] Client disconnected: uH6SPv2P321tlpt2AAAU
+2026-03-28 22:08:04 [info]: [Socket.io] Client connected: 5L0H9pcPuyyy7t7ZAAAX
+2026-03-28 22:10:25 [warn]: [Rewards] No user linked for report 69c50d21950bd383afa12be4 (reporterId/reporterPhone/reporterEmail missing or no match). Skipping coins.
+2026-03-28 22:11:30 [info]: [Twilio Fallback Log] Sending SMS to +918178583752 : [PawRescue] Your verification code is: 743444
+2026-03-28 22:13:09 [info]: [Socket.io] Client disconnected: 5L0H9pcPuyyy7t7ZAAAX
+2026-03-28 22:13:09 [info]: [Socket.io] Client connected: GDe9iGnVp7wiseq_AAAa
+2026-03-28 22:41:38 [info]: [Server] running on port 5000
+2026-03-28 22:41:59 [info]: [Socket.io] Client connected: Utvs7bxKn8I40_LjAAAC
+2026-03-28 22:42:48 [info]: [Socket.io] Client disconnected: Utvs7bxKn8I40_LjAAAC
+2026-03-28 22:42:49 [info]: [Socket.io] Client connected: U0JXOtRJYWSKhEDcAAAE
+2026-03-28 22:43:11 [info]: [Socket.io] Client disconnected: U0JXOtRJYWSKhEDcAAAE
+2026-03-28 22:43:12 [info]: [Socket.io] Client connected: 1F9BNwZr8L6hOMTvAAAH
+2026-03-28 22:47:09 [info]: [Socket.io] Client disconnected: 1F9BNwZr8L6hOMTvAAAH
+2026-03-28 22:47:09 [info]: [Socket.io] Client connected: sTQqnNKjgoybA4JXAAAK
+2026-03-28 22:47:27 [info]: [Socket.io] Client disconnected: sTQqnNKjgoybA4JXAAAK
+2026-03-28 22:47:28 [info]: [Socket.io] Client connected: 5DiT-Q9ocelp7t6jAAAM
+2026-03-28 22:47:31 [warn]: [Rewards] No user linked for report 69c79422a76097103a280f56 (reporterId/reporterPhone/reporterEmail missing or no match). Skipping coins.
+2026-03-28 22:47:33 [info]: [Socket.io] Client disconnected: 5DiT-Q9ocelp7t6jAAAM
+2026-03-28 22:47:33 [info]: [Socket.io] Client connected: HAdjmqFENEcVV3IVAAAP
+2026-03-28 23:01:01 [info]: [Server] running on port 5000
+2026-03-28 23:01:46 [info]: [Socket.io] Client connected: _nlJ8iV95Zx6F7BPAAAC
+2026-03-28 23:03:43 [info]: [Socket.io] Client disconnected: _nlJ8iV95Zx6F7BPAAAC
+2026-03-28 23:03:44 [info]: [Socket.io] Client connected: 7IMnGA_MkhLBPO4yAAAF
+2026-03-28 23:04:05 [info]: Rewarded 10 coins to user 69c551ef7cccf71ad0c65fac for report RPT-MNALZVX9 (report_accepted)
+2026-03-28 23:04:08 [info]: [Socket.io] Client disconnected: 7IMnGA_MkhLBPO4yAAAF
+2026-03-28 23:04:09 [info]: [Socket.io] Client connected: a4X2eRspE3-FrajDAAAH
+2026-03-28 23:04:48 [info]: [Socket.io] Client disconnected: a4X2eRspE3-FrajDAAAH
+2026-03-28 23:04:48 [info]: [Socket.io] Client connected: pJc8eNJcisKenwS0AAAK
+2026-03-28 23:05:37 [info]: [Socket.io] Client disconnected: pJc8eNJcisKenwS0AAAK
+2026-03-28 23:05:37 [info]: [Socket.io] Client connected: IHGPl1GvSr6xLLKNAAAM
+2026-03-28 23:05:39 [info]: [Socket.io] Client disconnected: IHGPl1GvSr6xLLKNAAAM
+2026-03-28 23:05:39 [info]: [Socket.io] Client connected: mWlu1NN_qXnEQNRQAAAO
+2026-03-28 23:05:53 [info]: [Socket.io] Client disconnected: mWlu1NN_qXnEQNRQAAAO
+2026-03-28 23:05:53 [info]: [Socket.io] Client connected: 1SUHIBhsGO9Ift8xAAAQ
+2026-03-28 23:05:54 [info]: [Socket.io] Client disconnected: 1SUHIBhsGO9Ift8xAAAQ
+2026-03-28 23:05:54 [info]: [Socket.io] Client connected: zoY3Srwvg_KzHYGeAAAS
+2026-03-28 23:06:39 [info]: [Socket.io] Client disconnected: zoY3Srwvg_KzHYGeAAAS
+2026-03-28 23:06:40 [info]: [Socket.io] Client connected: 42qunM2tUgXxevDoAAAU
+2026-03-28 23:06:42 [info]: [Socket.io] Client disconnected: 42qunM2tUgXxevDoAAAU
+2026-03-28 23:06:42 [info]: [Socket.io] Client connected: pnDJdPNwJ1gIapb1AAAX
+2026-03-28 23:06:45 [info]: [Socket.io] Client disconnected: pnDJdPNwJ1gIapb1AAAX
+2026-03-28 23:06:45 [info]: [Socket.io] Client connected: 6GeKloT8I_TsWQ6IAAAZ
+2026-03-28 23:06:48 [info]: Duplicate reward prevented for report 69c810ef90fa4bd0d5914918 - accepted
+2026-03-28 23:07:47 [info]: [Server] running on port 5000
+2026-03-28 23:07:50 [info]: [Socket.io] Client connected: nXOFeG2anISN4vWKAAAB
+2026-03-28 23:07:57 [info]: [Socket.io] Client disconnected: nXOFeG2anISN4vWKAAAB
+2026-03-28 23:08:02 [info]: [Socket.io] Client connected: UAvtTK3ffA2o1RGZAAAE
+2026-03-28 23:08:21 [info]: [Socket.io] Client disconnected: UAvtTK3ffA2o1RGZAAAE
+2026-03-28 23:08:21 [info]: [Socket.io] Client connected: pG9v02ZGSE0l6cC_AAAG
+2026-03-28 23:08:22 [info]: [Socket.io] Client disconnected: pG9v02ZGSE0l6cC_AAAG
+2026-03-28 23:08:23 [info]: [Socket.io] Client connected: bw0zYuabeTScIYUKAAAI
+2026-03-28 23:08:23 [info]: [Socket.io] Client disconnected: bw0zYuabeTScIYUKAAAI
+2026-03-28 23:08:23 [info]: [Socket.io] Client connected: 23q7PpA7HS-G9KrdAAAL
+2026-03-28 23:08:23 [info]: [Socket.io] Client disconnected: 23q7PpA7HS-G9KrdAAAL
+2026-03-28 23:08:23 [info]: [Socket.io] Client connected: SCz-vzVg6qu7XsXmAAAN
+2026-03-28 23:08:24 [info]: [Socket.io] Client disconnected: SCz-vzVg6qu7XsXmAAAN
+2026-03-28 23:08:24 [info]: [Socket.io] Client connected: EaEGE_cxiDca2w1bAAAP
+2026-03-28 23:08:26 [info]: [Socket.io] Client disconnected: EaEGE_cxiDca2w1bAAAP
+2026-03-28 23:08:26 [info]: [Socket.io] Client connected: Rv8GDiY81Cyfc44CAAAS
+2026-03-28 23:08:33 [info]: Duplicate reward prevented for report 69c810ef90fa4bd0d5914918 - accepted
+2026-03-28 23:08:52 [info]: [Socket.io] Client disconnected: Rv8GDiY81Cyfc44CAAAS
+2026-03-28 23:08:52 [info]: [Socket.io] Client connected: ykVz_IvU5JO4RwBcAAAU
+2026-03-28 23:10:57 [info]: [Socket.io] Client disconnected: ykVz_IvU5JO4RwBcAAAU
+2026-03-28 23:10:58 [info]: [Socket.io] Client connected: uvgqgy6ElP1RMKPOAAAX
+2026-03-28 23:12:34 [info]: [Socket.io] Client disconnected: uvgqgy6ElP1RMKPOAAAX
+2026-03-28 23:12:35 [info]: [Socket.io] Client connected: --sEHtkgUx679sWVAAAa
+2026-03-28 23:13:06 [info]: Rewarded 50 coins to user 69c551ef7cccf71ad0c65fac for report RPT-MNALZVX9 (report_completed)
+2026-03-28 23:13:12 [info]: [Socket.io] Client disconnected: --sEHtkgUx679sWVAAAa
+2026-03-28 23:13:13 [info]: [Socket.io] Client connected: 0oCq9vapovEF3rYuAAAc
+2026-03-29 20:12:38 [info]: [Server] running on port 5000
+2026-03-29 20:13:41 [info]: [Socket.io] Client connected: D5rDAZmj90OIVRVjAAAC
+2026-03-29 20:14:11 [info]: [Socket.io] Client disconnected: D5rDAZmj90OIVRVjAAAC
+2026-03-29 20:14:12 [info]: [Socket.io] Client connected: eQqGR0SC8E3c9DM5AAAF
+2026-03-29 20:14:45 [info]: [Socket.io] Client disconnected: eQqGR0SC8E3c9DM5AAAF
+2026-03-29 20:14:45 [info]: [Socket.io] Client connected: PsGII9C3CFc-2q8cAAAI
+2026-03-29 20:14:55 [info]: [Socket.io] Client disconnected: PsGII9C3CFc-2q8cAAAI
+2026-03-29 20:14:56 [info]: [Socket.io] Client connected: XzsmBa365nDFmg91AAAK
+2026-03-29 20:15:08 [info]: [Socket.io] Client disconnected: XzsmBa365nDFmg91AAAK
+2026-03-29 20:15:09 [info]: [Socket.io] Client connected: YjAHNOUk5cX2QdIqAAAM
+2026-03-29 20:15:16 [info]: [Socket.io] Client disconnected: YjAHNOUk5cX2QdIqAAAM
+2026-03-29 20:15:16 [info]: [Socket.io] Client connected: ebaJrfma29qkWw9KAAAP
+2026-03-29 20:15:18 [info]: [Socket.io] Client disconnected: ebaJrfma29qkWw9KAAAP
+2026-03-29 20:15:18 [info]: [Socket.io] Client connected: erERXwcGnFZRJcs9AAAS
+2026-03-29 20:15:35 [info]: [Socket.io] Client disconnected: erERXwcGnFZRJcs9AAAS
+2026-03-29 20:15:35 [info]: [Socket.io] Client connected: k6KnZTHfGWhAS6JLAAAV
+2026-03-29 20:15:42 [info]: [Socket.io] Client disconnected: k6KnZTHfGWhAS6JLAAAV
+2026-03-29 20:15:43 [info]: [Socket.io] Client connected: gKPhIEG94PjUXTzFAAAX
+2026-03-29 20:15:51 [info]: [Socket.io] Client disconnected: gKPhIEG94PjUXTzFAAAX
+2026-03-29 20:15:52 [info]: [Socket.io] Client connected: FuqcdRBFA1LbJQF5AAAa
+2026-03-29 20:16:00 [info]: [Socket.io] Client disconnected: FuqcdRBFA1LbJQF5AAAa
+2026-03-29 20:16:00 [info]: [Socket.io] Client connected: kqoWfgroryqhtGwsAAAd
+2026-03-29 20:16:07 [info]: [Socket.io] Client disconnected: kqoWfgroryqhtGwsAAAd
+2026-03-29 20:16:07 [info]: [Socket.io] Client connected: FR9s1tfRVNTiXYHZAAAg
+2026-03-29 20:23:48 [info]: [Socket.io] Client disconnected: FR9s1tfRVNTiXYHZAAAg
+2026-03-29 20:23:48 [info]: [Socket.io] Client connected: q1rHRKzIt26UlZjIAAAj
+2026-03-29 20:24:09 [info]: [Socket.io] Client disconnected: q1rHRKzIt26UlZjIAAAj
+2026-03-29 20:24:09 [info]: [Socket.io] Client connected: IKJWcDVfsEFwlIrOAAAl
+2026-03-29 20:25:24 [info]: [Socket.io] Client disconnected: IKJWcDVfsEFwlIrOAAAl
+2026-03-29 20:25:24 [info]: [Socket.io] Client connected: neY_zlr8frmuHG5hAAAo
+2026-03-29 20:25:43 [info]: [Socket.io] Client disconnected: neY_zlr8frmuHG5hAAAo
+2026-03-29 20:25:44 [info]: [Socket.io] Client connected: 4QCZYEjlr0X7NPHRAAAr
+2026-03-29 20:26:17 [info]: [Socket.io] Client disconnected: 4QCZYEjlr0X7NPHRAAAr
+2026-03-29 20:26:17 [info]: [Socket.io] Client connected: 0LNu7aYL2Sko9n52AAAu
+2026-03-29 20:26:27 [info]: [Socket.io] Client disconnected: 0LNu7aYL2Sko9n52AAAu
+2026-03-29 20:26:28 [info]: [Socket.io] Client connected: IOck9IBHrtDajMHmAAAw
+2026-03-29 20:27:00 [info]: [Socket.io] Client disconnected: IOck9IBHrtDajMHmAAAw
+2026-03-29 20:27:00 [info]: [Socket.io] Client connected: uAb0HqBECD4rnaibAAAy
+2026-03-29 20:27:13 [info]: Rewarded 10 coins to user 69c525b7f61ce4649694757a for report RPT-MNBVPYGF (report_accepted)
+2026-03-29 20:27:15 [info]: [Socket.io] Client disconnected: uAb0HqBECD4rnaibAAAy
+2026-03-29 20:27:16 [info]: [Socket.io] Client connected: cbE6r86DJibk3Hb4AAA0
+2026-03-29 20:27:18 [info]: [Socket.io] Client disconnected: cbE6r86DJibk3Hb4AAA0
+2026-03-29 20:27:18 [info]: [Socket.io] Client connected: uEftBeauq-O45gRwAAA3
+2026-03-29 20:27:22 [info]: [Socket.io] Client disconnected: uEftBeauq-O45gRwAAA3
+2026-03-29 20:27:23 [info]: [Socket.io] Client connected: -qu2MMSQRBMCSOKmAAA6
+2026-03-29 20:27:47 [info]: [Socket.io] Client disconnected: -qu2MMSQRBMCSOKmAAA6
+2026-03-29 20:27:47 [info]: [Socket.io] Client connected: gkxsZziivFVF2PThAAA9
+2026-03-29 20:28:39 [info]: [Socket.io] Client disconnected: gkxsZziivFVF2PThAAA9
+2026-03-29 20:28:39 [info]: [Socket.io] Client connected: JbuoxdgY1AlmBqMZAAA_
+2026-03-29 20:29:12 [info]: [Server] running on port 5000
+2026-03-29 20:29:13 [info]: [Socket.io] Client connected: 8aMp9hozIQzQvzV3AAAB
+2026-03-29 20:29:15 [info]: [Socket.io] Client disconnected: 8aMp9hozIQzQvzV3AAAB
+2026-03-29 20:29:15 [info]: [Socket.io] Client connected: Rouc7VlEgIHRR_EeAAAE
+2026-03-29 20:29:17 [info]: [Socket.io] Client disconnected: Rouc7VlEgIHRR_EeAAAE
+2026-03-29 20:29:18 [info]: [Socket.io] Client connected: 7PKGyysp-GQp10wSAAAG
+2026-03-29 20:29:46 [info]: [Socket.io] Client disconnected: 7PKGyysp-GQp10wSAAAG
+2026-03-29 20:29:46 [info]: [Socket.io] Client connected: UnzlVlsXTalTCX-oAAAJ
+2026-03-29 20:29:55 [info]: [Socket.io] Client disconnected: UnzlVlsXTalTCX-oAAAJ
+2026-03-29 20:29:55 [info]: [Socket.io] Client connected: lqpty6Tf0LtczGxCAAAM
+2026-03-29 20:30:18 [info]: [Socket.io] Client disconnected: lqpty6Tf0LtczGxCAAAM
+2026-03-29 20:30:18 [info]: [Socket.io] Client connected: FQuKjkgE-vBGtH5JAAAP
+2026-03-29 20:30:42 [info]: Rewarded 50 coins to user 69c525b7f61ce4649694757a for report RPT-MNBVPYGF (report_completed)
+2026-03-29 20:30:48 [info]: [Socket.io] Client disconnected: FQuKjkgE-vBGtH5JAAAP
+2026-03-29 20:30:48 [info]: [Socket.io] Client connected: pr-XKMrGZtU2ri3gAAAS
+2026-03-29 20:31:35 [info]: [Socket.io] Client disconnected: pr-XKMrGZtU2ri3gAAAS
+2026-03-29 20:31:35 [info]: [Socket.io] Client connected: gl_Wgfvx9tU9dToKAAAU
+2026-03-29 20:42:41 [info]: [Server] running on port 5000
+2026-03-29 20:43:05 [info]: [Socket.io] Client connected: WqV7ZmXVxnYNafx4AAAC
+2026-03-29 20:43:21 [info]: [Socket.io] Client disconnected: WqV7ZmXVxnYNafx4AAAC
+2026-03-29 20:43:21 [info]: [Socket.io] Client connected: 89gUOVpCPIXd2-lGAAAF
+2026-03-29 20:43:23 [info]: [Socket.io] Client disconnected: 89gUOVpCPIXd2-lGAAAF
+2026-03-29 20:43:23 [info]: [Socket.io] Client connected: vdT3p8Fr6UhJ-0PzAAAI
+2026-03-29 20:43:28 [info]: [Socket.io] Client disconnected: vdT3p8Fr6UhJ-0PzAAAI
+2026-03-29 20:43:28 [info]: [Socket.io] Client connected: CIA0XXVLPNH0cdaaAAAL
+2026-03-29 21:24:25 [info]: [Server] running on port 5000
+2026-03-29 21:24:48 [info]: [Socket.io] Client connected: BYlZVhG0soKgz2LzAAAC
+2026-03-29 21:28:40 [info]: [Socket.io] Client disconnected: BYlZVhG0soKgz2LzAAAC
+2026-03-29 21:28:40 [info]: [Socket.io] Client connected: wwch5HhDSdKmLUfQAAAF
+2026-03-29 21:30:45 [info]: [Socket.io] Client disconnected: wwch5HhDSdKmLUfQAAAF
+2026-03-29 21:30:46 [info]: [Socket.io] Client connected: wZqgmm2ldFznE3_3AAAH
+2026-03-29 21:44:19 [info]: [Socket.io] Client disconnected: wZqgmm2ldFznE3_3AAAH
+2026-03-30 23:47:16 [info]: [Server] running on port 5000
+2026-03-30 23:47:42 [info]: [Socket.io] Client connected: 9DiY4FdsaqAMlgogAAAC
+2026-03-30 23:48:56 [info]: [Socket.io] Client disconnected: 9DiY4FdsaqAMlgogAAAC
+2026-03-31 14:58:34 [info]: [Server] running on port 5000
+2026-03-31 14:58:52 [info]: [Socket.io] Client connected: Zh5fV8BkOYybQgreAAAC
+2026-03-31 14:59:04 [info]: [Socket.io] Client disconnected: Zh5fV8BkOYybQgreAAAC
+2026-03-31 14:59:04 [info]: [Socket.io] Client connected: MqzuhqBYXtK1XllYAAAE
+2026-03-31 14:59:36 [info]: [Socket.io] Client disconnected: MqzuhqBYXtK1XllYAAAE
+2026-03-31 14:59:36 [info]: [Socket.io] Client connected: Zl9ug4bCoeEomhisAAAH
+2026-03-31 15:01:17 [info]: [Socket.io] Client disconnected: Zl9ug4bCoeEomhisAAAH
+2026-03-31 15:01:19 [info]: [Socket.io] Client connected: ayLIcFja4zAFzKIWAAAJ
+2026-03-31 15:01:32 [info]: [Socket.io] Client disconnected: ayLIcFja4zAFzKIWAAAJ
+2026-03-31 15:01:35 [info]: [Socket.io] Client connected: fqTZmaZ0T-N-knNnAAAL
+2026-03-31 15:01:42 [info]: [Socket.io] Client disconnected: fqTZmaZ0T-N-knNnAAAL
+2026-03-31 15:01:42 [info]: [Socket.io] Client connected: 3--imFIBUdCQTS9pAAAO
+2026-03-31 15:01:50 [info]: [Socket.io] Client disconnected: 3--imFIBUdCQTS9pAAAO
+2026-03-31 15:01:50 [info]: [Socket.io] Client connected: A47zF_Bt0GBDzUsuAAAR
+2026-04-02 23:15:56 [info]: [Server] running on port 5000
+2026-04-02 23:16:42 [info]: [Socket.io] Client connected: qq38WdnxwjWYxbF-AAAC
+2026-04-02 23:18:12 [info]: [Socket.io] Client disconnected: qq38WdnxwjWYxbF-AAAC
+2026-04-02 23:18:12 [info]: [Socket.io] Client connected: pJOo1rde2ROjAEBzAAAF
+2026-04-02 23:27:46 [info]: [Socket.io] Client disconnected: pJOo1rde2ROjAEBzAAAF
+2026-04-02 23:27:46 [info]: [Socket.io] Client connected: W-Q32FJ1o9opvy1EAAAI
+2026-04-02 23:27:48 [info]: [Socket.io] Client disconnected: W-Q32FJ1o9opvy1EAAAI
+2026-04-02 23:27:49 [info]: [Socket.io] Client connected: pTvnMq4F9Tgv1iVtAAAL
+2026-04-02 23:27:50 [info]: [Socket.io] Client disconnected: pTvnMq4F9Tgv1iVtAAAL
+2026-04-02 23:27:51 [info]: [Socket.io] Client connected: cw9UGDq8q6O1BaHmAAAO
+2026-04-02 23:28:33 [info]: [Socket.io] Client disconnected: cw9UGDq8q6O1BaHmAAAO
+2026-04-02 23:28:34 [info]: [Socket.io] Client connected: 3TOVQ_RDM-N1RT2SAAAR
+2026-04-02 23:28:59 [info]: [Socket.io] Client disconnected: 3TOVQ_RDM-N1RT2SAAAR
+2026-04-02 23:28:59 [info]: [Socket.io] Client connected: _XW05Eb-_Kg5F-mZAAAU
+2026-04-02 23:30:46 [info]: [Socket.io] Client disconnected: _XW05Eb-_Kg5F-mZAAAU
+2026-04-02 23:30:47 [info]: [Socket.io] Client connected: TFU50Q5pEvB1mvkNAAAX

@@ -1,0 +1,18 @@
+App.tsx(1272,27): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+App.tsx(1272,29): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+App.tsx(1281,21): error TS1128: Declaration or statement expected.
+App.tsx(1282,19): error TS1109: Expression expected.
+App.tsx(1283,17): error TS1109: Expression expected.
+App.tsx(1284,15): error TS1128: Declaration or statement expected.
+App.tsx(1284,16): error TS1128: Declaration or statement expected.
+App.tsx(1284,17): error TS1128: Declaration or statement expected.
+App.tsx(1285,13): error TS1128: Declaration or statement expected.
+App.tsx(1286,11): error TS1109: Expression expected.
+App.tsx(1286,12): error TS1128: Declaration or statement expected.
+App.tsx(1287,9): error TS1128: Declaration or statement expected.
+App.tsx(1291,11): error TS2657: JSX expressions must have one parent element.
+App.tsx(1321,9): error TS1128: Declaration or statement expected.
+App.tsx(1322,7): error TS1109: Expression expected.
+App.tsx(1323,5): error TS1109: Expression expected.
+App.tsx(1324,3): error TS1109: Expression expected.
+App.tsx(1325,1): error TS1128: Declaration or statement expected.
